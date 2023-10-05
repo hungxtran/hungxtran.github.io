@@ -9,6 +9,7 @@ version: 2
 name: Tran Xuan Hung
 title: Senior Mobile Developer
 email: contact@hungxtran.com
+phone: 0912667767
 website: www.hungxtran.com
 
 # Dark Mode (true/false/never)
@@ -16,13 +17,13 @@ darkmode: never
 
 # Social links
 # twitter_username: hungxtran
+linkedin_username: hungxtran
 github_username:  hungxtran
 stackoverflow_username: "14014805"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: hungxtran
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -103,11 +104,10 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in software engineering, some of my other interests and hobbies are:
+      - Strength training
+      - Woodworking
+      - Upcycling
 
 # Footer
 footer_show_references: true
